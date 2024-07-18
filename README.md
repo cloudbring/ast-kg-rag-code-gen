@@ -22,6 +22,12 @@ This research project aims to leverage Language Servers and Abstract Syntax Tree
 4. Integrate the RAG system with an LLM to generate high-quality, context-aware code
 5. Evaluate the system's performance and demonstrate improvements over existing code generation techniques
 
+## Research
+
+Our ongoing research is documented in the [research](./research/README.md) 
+folder. For an overview of our research organization and current topics, please 
+see the research [ README ](./research/README.md).
+
 ## Technology Stack
 
 > :bulb: This will evolve over time
